@@ -1,0 +1,5 @@
+aws_region     = "us-east-1"
+ami_id         = "ami-0e1989e836322f58b"
+instance_type  = "t2.micro"
+bucket_name    = "my-terraform-demo-bucket-123-aachal-20250816"
+vpc_id         = "vpc-01dd1a701286df65f"
